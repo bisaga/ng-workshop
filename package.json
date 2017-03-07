@@ -1,0 +1,30 @@
+{
+  "name": "com.bisaga.angular.workshop",
+  "version": "0.0.1",
+  "description": "angular workshop project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisaga/ng-workshop.git"
+  },
+  "keywords": [
+    "angular",
+    "workshop"
+  ],
+  "author": "Igor Babic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bisaga/ng-workshop/issues"
+  },
+  "homepage": "https://github.com/bisaga/ng-workshop#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "@angular/core": "^2.4.9"
+  }
+}
